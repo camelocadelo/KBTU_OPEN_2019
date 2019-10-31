@@ -1,5 +1,6 @@
-/*PROBLEM A: String merging
-
+#PROBLEM A: String merging
+#Link to the problem: https://tau.moe/problemset/task/6/
+/*		
 time limit per test: second
 
 memory limit per test: megabytes
