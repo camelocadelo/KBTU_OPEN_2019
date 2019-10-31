@@ -1,4 +1,7 @@
-#Boring GCD
+#Problem C: Boring GCD
+
+#Link to the problem: https://tau.moe/problemset/task/8/
+	
 /*time limit per test:	2.0 second
 memory limit per test:	512 megabytes
 input:	standard input
