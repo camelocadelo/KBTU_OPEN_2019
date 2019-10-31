@@ -1,6 +1,6 @@
 # KBTU_OPEN_2019
 
-Task String merging
+Task A: String merging
 
 time limit per test:	second
 
@@ -31,7 +31,7 @@ Examples:
 Example 1 {A = compressing, B = single, C = compressingle}
 Example 2 {A = hi, B = you, C = hiyou}
 
-
+T
 
 
 
