@@ -1,9 +1,13 @@
 # KBTU_OPEN_2019
 
 Task String merging
+
 time limit per test:	second
+
 memory limit per test:	megabytes
+
 input:	standard input
+
 output:	standard output
 
 In this problem you will be given two strings - A and B.
